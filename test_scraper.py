@@ -14,7 +14,3 @@ reviews2 = scrape_flipkart_reviews(url2, "Noise Master Buds 1", pages=15)
 
 print(f"\nProduct 1 reviews: {len(reviews1)}")
 print(f"Product 2 reviews: {len(reviews2)}")
-
-
-
-

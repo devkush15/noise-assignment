@@ -1,0 +1,7 @@
+openai
+playwright
+beautifulsoup4
+pandas
+sqlite-utils
+python-dotenv
+schedule
